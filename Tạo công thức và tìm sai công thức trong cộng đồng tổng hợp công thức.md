@@ -1,3 +1,4 @@
+# tạo vòng lặp While
 while True:
 # huớng dẫn
 	print(' chọn công thức')
