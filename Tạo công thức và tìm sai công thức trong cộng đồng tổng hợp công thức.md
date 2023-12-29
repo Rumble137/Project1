@@ -32,7 +32,7 @@ while True:
 		print('[d = Un - U1/n - 1')
 #nhập số cần tính
 		U1 = int(input(' số hạng đầu U1: '))
-		Un = int(input('số hạng Un'))
+		Un = int(input('số hạng Un: '))
 		n = Un
 		d = 'd'
 #kt giá trị n - 1 khác 0
